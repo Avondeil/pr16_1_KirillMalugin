@@ -1,0 +1,21 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.pdb
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.exe.config
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.exe
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\bin\Debug\Prakt16Algoritm.pdb
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.Form1.resources
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.Properties.Resources.resources
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.GenerateResource.cache
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.exe
+C:\Users\kiril\Downloads\Prakt16Algoritm\Prakt16Algoritm\obj\Debug\Prakt16Algoritm.pdb
