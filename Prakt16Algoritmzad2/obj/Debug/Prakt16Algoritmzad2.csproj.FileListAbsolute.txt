@@ -1,0 +1,8 @@
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\bin\Debug\Prakt16Algoritmzad2.exe.config
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\bin\Debug\Prakt16Algoritmzad2.exe
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\bin\Debug\Prakt16Algoritmzad2.pdb
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\obj\Debug\Prakt16Algoritmzad2.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\obj\Debug\Prakt16Algoritmzad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\obj\Debug\Prakt16Algoritmzad2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\obj\Debug\Prakt16Algoritmzad2.exe
+C:\Users\kiril\Downloads\Prakt16Algoritmzad2\obj\Debug\Prakt16Algoritmzad2.pdb
